@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from brew.brew.preprocessing.smote import *
+from brew.preprocessing.smote import *
 
 
 X = np.array([ 
